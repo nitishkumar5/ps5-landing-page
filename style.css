@@ -1,0 +1,56 @@
+body{
+	background-color: #274365;
+}
+
+h1{
+	color: white;
+	font-size: 3rem;
+
+}
+
+p{
+	color: white;
+	font-size: 1rem;
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 50px;
+	text-transform: uppercase;
+	color: black;
+
+}
+
+.btn-primary{
+	background-color: #D5D9E2;
+	border-color: #D5D9E2;
+}
+
+.btn-primar:hover{
+	background-color: #8E9FC6;
+	border-color: #8E9FC6;
+	border-width: 4px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
+img{
+	filter: drop-shadow(10px 10px rgba(0, 0, 0, 0.1));
+}
+
+
+
+
+.container{
+	margin-top: 200px;
+	margin-right: 100px;
+	margin-left: 190px;
+}
+
+
+.joystick{
+	margin-top: -300px;
+	margin-right: 150px;
+}
